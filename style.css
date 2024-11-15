@@ -1,0 +1,48 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #0e344e;
+    color: black;
+}
+
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #1d5786;
+    box-shadow: 4px 4px 4px black;
+}
+
+h1 {
+    font-size: 2em;
+    color: black;
+}
+
+input[type="text"] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-size: 20px;
+    box-shadow: 2px 2px 2px black;
+}
+
+button {
+    background-color: #c58c30;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+
+#responseData {
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+
